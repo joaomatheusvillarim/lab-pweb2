@@ -1,0 +1,9 @@
+Versionamento de código é uma prática adotada por programadores para o
+desenvolvimento de código colaborativamente através da ferramenta Git. O
+Git permite que sejam mantidas ramificações do estado de um projeto, bem como
+seu histórico de alterações, para facilitar a expansão do sistema em novas
+funcionalidades e correção de falhas. Sem as boas práticas de versionamento
+de código, ou então a sua ausência total, é esperado que a equipe de
+desenvolvedores enfrente diversos conflitos ao manter seus projetos, pois
+tornam-se mais suscetíveis a erros causados por divergências em arquivos
+"iguais" e a correção destes se torna mais custosa em horas de trabalho.

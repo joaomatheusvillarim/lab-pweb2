@@ -1,0 +1,10 @@
+Resposta inicial:
+Inicialmente, a World Wide Web (WWW) era utilizada no contexto de pesquisa e
+desenvolvimento científico, no qual era necessária uma ferramenta que
+facilitasse o acesso de artigos por pesquisadores em diferentes partes
+do mundo, e assim, através do hipertexto, tornou-se possível navegar entre
+artigos a partir de suas referências. Ao analisar as mais de 3 décadas de
+evolução da WWW, é possível notar uma evolução também nas tecnologias
+utilizadas para o seu desenvolvimento, e consequentemente nos dados e
+informações associados ao seu uso, isto é, a interação entre usuários da
+internet se tornou cada vez mais rica em recursos.

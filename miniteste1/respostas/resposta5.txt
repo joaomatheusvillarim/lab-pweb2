@@ -1,0 +1,15 @@
+Neste cenário, eu aproveitaria do meu aprendizado de Engenharia de Software
+em 2024.1 para implementar os seus processos de desenvolvimento em meu projeto.
+Em todas as etapas, é necessário identificar as tarefas referentes à esta
+antes de iniciá-la, para que então possamos identificar também as suas
+dependências, e desta forma, possamos dividí-las igualitariamente entre os
+membros de modo que seja possível cumpri-las no menor tempo possível.
+Para a escolha de ferramentas, é necessário primeiro que nesta etapa atual
+(planejamento e requisitos), seja decidido em comum acordo qual será o
+sistema a ser implementado, e então fazer um levantamento de requisitos com
+seus stakeholders (possível cliente real), e então poderemos escolher as
+ferramentas mais adequadas para cumprir os requisitos funcionais e não-funcionais
+do sistema. Por fim, quanto ao versionamento de código, implementaremos um
+padrão de commits, branches e pushes ao repositório do projeto para que este
+mantenha-se organizado, bem como um canais de comunicação formal e informal
+para o acompanhamento das sprints de desenvolvimento.

@@ -1,0 +1,5 @@
+A linguagem de programação JavaScript, que proporciona recursos de interação
+entre as páginas web e o usuário; a linguagem de estilização CSS, que permite
+a adição de recursos visuais às páginas web; e as IDEs apropriadas para
+facilitar o desenvolvimento do código com ferramentas de visualização de
+páginas html.

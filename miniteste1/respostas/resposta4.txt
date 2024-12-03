@@ -1,0 +1,6 @@
+O JavaScript prestou um papel essencial na evolução da Web 1.0 para a Web 2.0,
+isto é, esta linguagem de programação que permite a modificação das páginas
+html fez com que a Web transicionasse de sua fase anterior, marcada por
+websites estáticos sem nenhuma interação com o usuário, para uma nova fase,
+marcada pelo crescente número de interações de usuários interessados em
+comunicar-se e contribuir para esta novidade que era a Web nos anos 1990.
